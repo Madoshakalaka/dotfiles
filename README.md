@@ -26,4 +26,5 @@ export PS1="\[\e[32m\]\[\e[1m\]\h\[\e[m\]:\[\e[34m\]\[\e[1m\]\\w\[\e[m\]\\$\`non
 
 ```
 
+![non zero prompt](./non-zero-prompt.png)
 
